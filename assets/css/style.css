@@ -91,6 +91,7 @@ main {
 }
 
 main > .info {
+    display: fixed;
     height: 45vh;
     display: flex;
     justify-content: center;
