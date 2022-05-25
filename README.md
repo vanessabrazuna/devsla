@@ -1,2 +1,2 @@
 # devsla
-Exercício clone da página Tesla referente ao curso B7web.
+Clone exercise of the Tesla page referring to the B7web course.
